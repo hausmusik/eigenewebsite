@@ -1,0 +1,10 @@
+/*
+CSS fuer die eigene Website
+*/
+
+body {
+    max-width: 1280px;
+    background-color: gray;
+    font-family: "Open Sans";
+}
+
