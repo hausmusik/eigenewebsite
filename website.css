@@ -1,6 +1,19 @@
 /*
 CSS fuer die eigene Website
 */
+#header{
+    border: 3px solid orange;
+
+}
+#header .menue{
+    float: left;
+    margin: 0em 0em 0em 5em;
+}
+#header .headerueberschrift{
+    float: right;
+    margin: 0em 5em 0em 0em;
+}
+
 
 body {
     max-width: 1280px;
